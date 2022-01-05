@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+/***/
+
 public class Astar implements Runnable{
 	Maze maze;
 	ArrayList<Maze.Node> openSet;
